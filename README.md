@@ -2,7 +2,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Getting Started a new App in React Native
 
-# Citas Médicas 18
+# Navigation 18
 
 ## Development
 1. Clonar proyecto
